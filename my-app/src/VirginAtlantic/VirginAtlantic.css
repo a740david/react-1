@@ -1,0 +1,15 @@
+.center{   
+text-align: center;
+}
+.frame{
+  border: 2px solid rgb(0, 255, 247);
+  padding: 10px;
+  border-radius: 25px;
+}
+
+.size_seat{
+  width: 3%;
+}
+.color_seat{
+    color: green;
+}
